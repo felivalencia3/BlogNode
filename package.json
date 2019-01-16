@@ -1,0 +1,9 @@
+{
+  "name": "blog_engine",
+  "version": "0.0.1",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.6.1",
+    "mongodb": "^3.1.6"
+  }
+}
